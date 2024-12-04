@@ -1,0 +1,5 @@
+fastapi
+uvicorn
+eyed3
+python-multipart
+rich
